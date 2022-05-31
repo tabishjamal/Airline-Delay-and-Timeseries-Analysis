@@ -7,6 +7,16 @@
 
 The dataset has 73282 data points. 
 
+---
+### **The analysis aims to find the answers to the following questions:**
+
+1. Which airports are more congested and what can be done to ease the congestion?
+
+2. Which airlines are more delayed and what could be done so that flights arrive on time?
+
+3. How would the trend of traffic in the airport would have been, if Covid-19 would not have happened?
+
+
 ----
 # Notebook 1: 01_Exploration.ipynb
 ## 1. Data Cleaning
